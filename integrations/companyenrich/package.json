@@ -1,6 +1,6 @@
 {
   "name": "@botpresshub/companyenrich",
-  "description": "CompanyEnrich company data integration for Botpress",
+  "description": "CompanyEnrich company and people data integration for Botpress",
   "private": true,
   "scripts": {
     "build": "bp add -y && bp build",
